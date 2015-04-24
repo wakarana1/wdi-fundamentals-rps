@@ -90,8 +90,4 @@ function playToFive() {
     return [playerWins, computerWins];
 }
 
-<<<<<<< HEAD
 playToFive();
-=======
-playToFive();
->>>>>>> b12c340b7ab476ec8efd6ccb182f0dc3fab2758c
